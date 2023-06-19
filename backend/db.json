@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Raphael Blanco",
-        "email": "raphael@email.com"
-    },{
-        "id": 2,
-        "name": "Rafaella Amaral",
-        "email": "rafaella@email.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Raphael Blanco",
+      "email": "raphael@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Rafaella Amaral",
+      "email": "rafaella@email.com"
+    },
+    {
+      "name": "Tobias",
+      "email": "tobias@cao.com",
+      "id": 3
+    }
+  ]
 }
